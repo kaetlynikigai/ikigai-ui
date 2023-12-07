@@ -1,0 +1,17 @@
+# dependencies
+node_modules
+storybook-static
+
+# testing
+/coverage
+/test-results
+junit.xml
+
+# production
+/build
+/lib
+/dist
+dist
+
+# misc
+/.cache
